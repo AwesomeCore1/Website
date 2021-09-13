@@ -3,7 +3,7 @@ function App() {
 		<div className="flex flex-col items-center justify-center min-h-screen py-2">
 			<div className="flex flex-col items-center justify-center w-full flex-1 px-20 text-center">
 				<img
-					className="block mx-auto h-24 rounded-full sm:mx-0 sm:flex-shrink-0"
+					className="block mx-auto h-auto rounded-full sm:mx-0 sm:flex-shrink-0"
 					draggable={false}
 					src="https://i.imgur.com/TDDLYJJ.png"
 					height="200"
