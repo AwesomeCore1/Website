@@ -5,7 +5,7 @@ function App() {
 				<img
 					className="h-full py-2 pr-10 ml-8"
 					draggable={false}
-					src="https://i.imgur.com/xY9WWdI.png"
+					src="https://i.imgur.com/TDDLYJJ.png"
 					height="200"
 					width="200"
 					alt="logo"
