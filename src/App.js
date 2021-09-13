@@ -4,6 +4,7 @@ function App() {
 			<div className="flex flex-col items-center justify-center w-full flex-1 px-20 text-center">
 				<img
 					className="h-full py-2 pr-10 ml-8"
+					style="border-radius: 1;"
 					draggable={false}
 					src="https://i.imgur.com/TDDLYJJ.png"
 					height="200"
