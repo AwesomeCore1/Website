@@ -12,7 +12,7 @@ function App() {
 				/>
 				<span className="font-mono text-blue-300 text-3xl">
 					Hi 👋
-					<br /> I'm Fake FC, I am an amazing back-end developer.
+					<br /> I'm Fake FC aka Awesomecore1, I am an amazing back-end developer.
 				</span>
 			</div>
 
@@ -20,7 +20,7 @@ function App() {
 				<div className="container px-5 py-8 pt-12 mx-auto flex items-center sm:flex-row flex-col">
 					<span className="inline-flex sm:mt-0 mt-4 px-5 justify-center sm:justify-start">
 						<a
-							href="https://github.com/FC5570"
+							href="https://github.com/AwesomeCore1"
 							target="_blank"
 							rel="noreferrer"
 						>
