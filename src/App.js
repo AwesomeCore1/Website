@@ -12,7 +12,7 @@ function App() {
 				/>
 				<span className="font-mono text-blue-300 text-3xl">
 					Hi 👋
-					<br /> I'm FC, I work as a front-end and a back-end developer.
+					<br /> I'm Fake FC, I am an amazing back-end developer.
 				</span>
 			</div>
 
